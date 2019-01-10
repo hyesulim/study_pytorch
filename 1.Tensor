@@ -1,0 +1,14 @@
+url : https://www.youtube.com/watch?v=VKhFeh92eps&t=4s
+
+Pytorch란?
+파이썬 기반 패키지로, Numpy의 연산을 GPU로 가속화할 수 있게 함.
+
+[목차]
+1. Torch의 Tensor
+2. Tensor의 선언
+3. Numpy to Tensor
+4. Tensor to Numpy
+5. Tensor의 view
+6. Tensor의 cat
+7. Tensor의 mean, sum
+8. Tensor의 GPU 연산
